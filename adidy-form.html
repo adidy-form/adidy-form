@@ -2,7 +2,7 @@
 <html lang="mg">
 <head>
   <meta charset="UTF-8">
-  <title>Gandohavana Adidy</title>
+  <title>Fandohavana Adidy</title>
   <style>
     body {
       font-family: Arial, sans-serif;
